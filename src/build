@@ -1,0 +1,1 @@
+gcc main.c utils.c passwd.c -o main.x86_64
