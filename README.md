@@ -1,2 +1,2 @@
 # strgen
-utility-tool for generating passwords and likewise.
+ utility-tool for generating queries 
